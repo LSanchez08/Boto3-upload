@@ -7,5 +7,3 @@ The script should use the boto3 module to connect to the AWS account and upload 
 The script should create a new folder in the bucket with the current date as the name, and upload the contents of the local directory to that folder.
 The script should handle errors gracefully, and should output an error message if it is unable to connect to the S3 bucket or upload the files.
 The script should be able to run on both Windows and Linux platforms.
-
-carlos.cuellar@verato.com
